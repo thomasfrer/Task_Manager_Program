@@ -1,4 +1,4 @@
-# Task_Manager_Program
+# Task Manager Program
 Thomas’s Task Manager Documentation
 
 Introduction
